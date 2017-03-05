@@ -15,10 +15,6 @@
     "about": {
       "text": "about",
       "url": "/about"
-    },
-    "contact": {
-      "text": "contact",
-      "url": "mailto:contact@jon-kyle.com"
     }
   },
   "filters": {
@@ -31,7 +27,7 @@
       "filter": "project"
     },
     "writing": {
-      "text": "writing",
+      "text": "words",
       "filter": "writing"
     },
     "updates": {

@@ -11,3 +11,43 @@ the final chain relies upon several convolvers with extreme impulse reactions ea
 the audio stream was accompanied by 31 hand animated six frame loops which were fed through visual displacement and feedback processing, all of which was created by [andrew ohlmann](http://andrewohlmann.com). parameters were frequency-mapped to the audio being played to create an identifiable cohesion within the chaos.
 
 the site was a frameworkless single page app. we relied on [browserify](http://browserify.org) to bundle everything up, and [pixi](http://www.pixijs.com) was heavily used for the stream visuals.
+
+after the stream concluded, it was replaced by an archive page which is currently accessible by visiting [streams.redbullmusicacademy.com](http://streams.redbullmusicacademy.com).
+
+special thanks to [brian allen simon](http://brianallensimon.com) for initiating the project, and [andrew ohlmann](http://andrewohlmann.com).
+
+## participating artists
+
+<ul class="tc2 columns ttl">
+  <li>Anenon</li>
+  <li>William Basinski</li>
+  <li>Fatima Al Qadiri</li>
+  <li>Eluvium</li>
+  <li>Patten</li>
+  <li>Joey Anderson</li>
+  <li>Claude Speeed</li>
+  <li>White Visitation</li>
+  <li>Fennesz</li>
+  <li>Klara Lewis</li>
+  <li>Beatrice Dillon</li>
+  <li>Zebra Katz</li>
+  <li>Aurora Halal</li>
+  <li>EVOL</li>
+  <li>Jefre Cantu-Ledesma</li>
+  <li>M. Geddes Gengras</li>
+  <li>Mumdance</li>
+  <li>Kuedo</li>
+  <li>Sepalcure</li>
+  <li>Nkisi</li>
+  <li>Oren Ambarchi</li>
+  <li>3.33</li>
+  <li>Egyptrixx</li>
+  <li>John Roberts</li>
+  <li>Wolf Eyes</li>
+  <li>Tin Man</li>
+  <li>Hieroglyphic Being</li>
+  <li>Kara-Lis Coverdale</li>
+  <li>Ipek Gorgun</li>
+  <li>Aisha Devi</li>
+  <li>Lesley Flanigan</li>
+</ul>
