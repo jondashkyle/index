@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "data.json",
-  "scripts": { },
+  "scripts": {
+    "start": "spod watch"
+  },
   "author": "Jon-Kyle <contact@jon-kyle.com> (http://jon-kyle.com)",
   "license": "ISC",
   "devDependencies": {
