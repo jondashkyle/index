@@ -1,21 +1,21 @@
-small sites,
-smaller tools,
-keep it basic.
+- small sites,
+  smaller tools,
+  keep it basic.
 
-there is no seperation of design & build,
-or design & programming,
-or whatever.
+## neo-networking
+
+- the internet without the internet
 
 ## repeat these instructions until the project is complete
 
-- finish the project,
-  figure out what it actually is,
+- finish the project once,
+  what is it,
   scrap all of it.
 - finish the project twice,
-  figure out what it is,
+  what is it,
   scrap half of it.
 - finish the project thrice,
-  figure out what it is,
+  what is it,
   scrap a third of it.
 
 ## some ambiguous specifics
@@ -28,7 +28,7 @@ or whatever.
 - for dev,
   browserify,
   no webpack or whatever,
-  es3 for the most part,
+  [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node),
   keep it basic!
 
 ## data
@@ -37,7 +37,7 @@ with data structures and state, keep it flat as possible. chances are you don’
 
 always use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.
 
-## remember the audience
+## visitors
 
 design and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.
 

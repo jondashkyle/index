@@ -2,19 +2,19 @@
   "title": "about",
   "hidden": true,
   "name": "jon-kyle",
-  "note": "currently accepting freelance projects",
+  "note": "ny, ny\n\ncurrently accepting freelance projects",
   "pages": {
     "index": {
       "text": "index",
       "url": "/"
     },
-    "about": {
-      "text": "about",
-      "url": "/about"
-    },
     "images": {
       "text": "images",
       "url": "/images"
+    },
+    "about": {
+      "text": "about",
+      "url": "/about"
     },
     "contact": {
       "text": "contact",

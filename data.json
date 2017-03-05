@@ -1,7 +1,7 @@
 {
   "web-thoughts-pt-1": {
     "path": "web-thoughts-pt-1",
-    "text": "small sites,\nsmaller tools,\nkeep it basic.\n\nthere is no seperation of design & build,\nor design & programming,\nor whatever.\n\n## repeat these instructions until the project is complete\n\n- finish the project,\n  figure out what it actually is,\n  scrap all of it.\n- finish the project twice,\n  figure out what it is,\n  scrap half of it.\n- finish the project thrice,\n  figure out what it is,\n  scrap a third of it.\n\n## some ambiguous specifics\n\n- for design,\n  sketch or browser,\n  no adobe or whatever,\n  typography for the most part,\n  keep it basic! \n- for dev,\n  browserify,\n  no webpack or whatever,\n  es3 for the most part,\n  keep it basic!\n\n## data\n\nwith data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.\n\nalways use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.\n\n## remember the audience\n\ndesign and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.\n\ncompress. minify. gzip. keep the size down. keep it fast.\n\nbig ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.\n",
+    "text": "- small sites,\n  smaller tools,\n  keep it basic.\n\n## neo-networking\n\n- the internet without the internet\n\n## repeat these instructions until the project is complete\n\n- finish the project once,\n  what is it,\n  scrap all of it.\n- finish the project twice,\n  what is it,\n  scrap half of it.\n- finish the project thrice,\n  what is it,\n  scrap a third of it.\n\n## some ambiguous specifics\n\n- for design,\n  sketch or browser,\n  no adobe or whatever,\n  typography for the most part,\n  keep it basic! \n- for dev,\n  browserify,\n  no webpack or whatever,\n  [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node),\n  keep it basic!\n\n## data\n\nwith data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.\n\nalways use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.\n\n## visitors\n\ndesign and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.\n\ncompress. minify. gzip. keep the size down. keep it fast.\n\nbig ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.\n",
     "title": "making and unmaking web sites, pt 1",
     "tags": [
       "www",
@@ -33,7 +33,7 @@
   },
   "hardly-everything": {
     "path": "hardly-everything",
-    "text": "hardly",
+    "text": "![62.25!video.mp4](hardlyeverything1.jpg)",
     "title": "hardly everything",
     "date": "06/18/16",
     "type": "project",
@@ -45,7 +45,7 @@
   },
   "2pac": {
     "path": "2pac",
-    "text": "[![62.5](pac.jpg)](http://2pac.com)\n\nmade a website for 2pac, [2pac.com](http://2pac.com), with folder studio.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
+    "text": "[![62.5](pac.jpg)](http://2pac.com)\n\nfolder studio made a website for 2pac, [2pac.com](http://2pac.com). i did a lot of dev. adam ferriss did the webgl.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
     "title": "2pac",
     "collaborator": "folder studio",
     "url": "http://2pac.com",
@@ -117,19 +117,19 @@
     "title": "about",
     "hidden": true,
     "name": "jon-kyle",
-    "note": "currently accepting freelance projects",
+    "note": "ny, ny\n\ncurrently accepting freelance projects",
     "pages": {
       "index": {
         "text": "index",
         "url": "/"
       },
-      "about": {
-        "text": "about",
-        "url": "/about"
-      },
       "images": {
         "text": "images",
         "url": "/images"
+      },
+      "about": {
+        "text": "about",
+        "url": "/about"
       },
       "contact": {
         "text": "contact",
@@ -158,6 +158,29 @@
       "project",
       "www",
       "music"
+    ]
+  },
+  "shattered-streams": {
+    "path": "shattered-streams",
+    "text": "i’ve had ongoing collaborations with [rbma](http://redbullmusicacademy.com) since 2015, when I performed at the rbma fest in new york. the most recent of these, shattered streams, was an experiment in musical ephemerality, presenting original music from 31 artists throughout may 2016. each song was available to stream on a loop for a maximum period of 24 hours, degrading over that time until they simply disappeared.\n\nthis project wasn’t about digital v. analog, or suggesting one way of listening is purer than another. instead, it was a continuum of the conversations surrounding modern music consumption via streaming services in which a degradation of access, not quality, is encountered as the result of shifting licensing agreements and dropped connections.\n\n![62.5!shattered.mp4](thumbnail.jpg)\n\nthe site made heavy use of the web audio api to handle real-time signal processing in the browser. users could select a listening session duration anywhere between a minute and twenty-four hours. it was important to communicate the idea of degradation without relying on analog auditory tropes like tape hiss.\n\nthe final chain relies upon several convolvers with extreme impulse reactions each phasing in and out of each other, along with eq modulation and a touch of distortion.\n\nthe audio stream was accompanied by 31 hand animated six frame loops which were fed through visual displacement and feedback processing, all of which was created by [andrew ohlmann](http://andrewohlmann.com). parameters were frequency-mapped to the audio being played to create an identifiable cohesion within the chaos.\n\nthe site was a frameworkless single page app. we relied on [browserify](http://browserify.org) to bundle everything up, and [pixi](http://www.pixijs.com) was heavily used for the stream visuals.\n",
+    "title": "shattered streams",
+    "date": "02/04/16",
+    "type": "project",
+    "tags": [
+      "design",
+      "development",
+      "www"
+    ],
+    "client": "red bull music academy"
+  },
+  "a-line-moving-across-a-window-once-every-year": {
+    "path": "a-line-moving-across-a-window-once-every-year",
+    "text": "[![62.25](line-moving.jpg)](http://a-line-moving-across-a-window-once-every-year.com/)",
+    "title": "a line moving across a window once every year",
+    "date": "01/30/15",
+    "type": "project",
+    "tags": [
+      "www"
     ]
   }
 }

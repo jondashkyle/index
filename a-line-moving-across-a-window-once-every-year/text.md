@@ -1,0 +1,1 @@
+[![62.25](line-moving.jpg)](http://a-line-moving-across-a-window-once-every-year.com/)
