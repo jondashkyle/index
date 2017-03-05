@@ -1,7 +1,7 @@
 {
   "web-thoughts-pt-1": {
     "path": "web-thoughts-pt-1",
-    "text": "- small sites,\n  smaller tools,\n  keep it basic.\n\n## neo-networking\n\n- the internet without the internet\n\n## repeat these instructions until the project is complete\n\n- finish the project once,\n  what is it,\n  scrap all of it.\n- finish the project twice,\n  what is it,\n  scrap half of it.\n- finish the project thrice,\n  what is it,\n  scrap a third of it.\n\n## some ambiguous specifics\n\n- for design,\n  sketch or browser,\n  no adobe or whatever,\n  typography for the most part,\n  keep it basic! \n- for dev,\n  browserify,\n  no webpack or whatever,\n  [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node),\n  keep it basic!\n\n## data\n\nwith data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.\n\nalways use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.\n\n## visitors\n\ndesign and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.\n\ncompress. minify. gzip. keep the size down. keep it fast.\n\nbig ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.\n",
+    "text": "## tools\n- small sites, smaller tools, keep it basic.\n- big ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.\n\n## neo-networking\n\n- the internet without the internet\n\n## repeat these instructions until the project is complete\n\n- finish the project once, what is it, scrap all of it.\n- finish the project twice, what is it, scrap half of it.\n- finish the project thrice, what is it, scrap a third of it.\n\n## some ambiguous specifics\n\n- for design, sketch or browser, no adobe or whatever, typography for the most part, keep it basic! \n- for dev, browserify, no webpack or whatever, [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node), keep it basic!\n\n## data\n\n- with data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.\n- always use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.\n\n## visitors\n\n- design and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.\n- compress. minify. gzip. keep the size down. keep it fast.\n",
     "title": "making and unmaking web sites, pt 1",
     "tags": [
       "www",
@@ -46,11 +46,11 @@
   },
   "2pac": {
     "path": "2pac",
-    "text": "[![62.5](pac.jpg)](http://2pac.com)\n\nfolder studio made a website for 2pac, [2pac.com](http://2pac.com). i did a lot of dev. adam ferriss did the webgl.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
+    "text": "[![62.5](pac.jpg)](http://2pac.com)\n\neditorially driven website by [folder studio](http://folderstudio.com), preserving the legacy of tupac shakur through personal stories from his friends and contemporaries. canonized at its most potent, tupac’s legacy remains powerful and relevant to this day.\n\ni contributed front/back-end development and integration of adam ferris’ webgl.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
     "title": "2pac",
     "collaborator": "folder studio",
     "url": "http://2pac.com",
-    "date": "11/19/16",
+    "date": "11/23/16",
     "type": "project",
     "tags": [
       "development",
@@ -74,11 +74,11 @@
   },
   "endless-80s-nyc": {
     "path": "endless-80s-nyc",
-    "text": "[![62.5](endless-80s-nyc.jpg)](http://labels.redbullmusicacademy.com)",
+    "text": "[![62.5](endless-80s-nyc.jpg)](http://labels.redbullmusicacademy.com)\n\n[![50.390625](endless-80s-nyc-2.jpg)](http://labels.redbullmusicacademy.com)",
     "title": "endless 80s nyc",
     "client": "red bull music academy",
     "url": "http://labels.redbullmusicacademy.com",
-    "date": "10/13/16",
+    "date": "05/29/15",
     "tags": [
       "design",
       "music",
@@ -209,6 +209,19 @@
         "date": "12/17/16",
         "locaiton": "london, eng"
       }
+    ]
+  },
+  "cargo": {
+    "path": "cargo",
+    "text": "![56.25](cargo.jpg)\n\nbetween 2010–2016 i was part of the core cargo team, contributing to front-end development and design. \n\n<div class=\"tc3 tcg1 columns\">\n<div>![62.5](cargo1.jpg)</div>\n<div>![62.5](cargo2.jpg)</div>\n<div>![62.5](cargo8.jpg)</div>\n<div>![62.5](cargo3.jpg)</div>\n<div>![62.5](cargo6.jpg)</div>\n<div>![62.5](cargo7.jpg)</div>\n<div>![62.5](cargo4.jpg)</div>\n<div>![62.5](cargo5.jpg)</div>\n<div>![62.5](cargo9.jpg)</div>\n</div>",
+    "title": "cargo collective",
+    "date": "10/01/09",
+    "url": "http://cargocollective.com",
+    "type": "project",
+    "tags": [
+      "www",
+      "design",
+      "development"
     ]
   }
 }
