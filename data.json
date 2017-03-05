@@ -5,7 +5,8 @@
     "title": "making and unmaking web sites, pt 1",
     "tags": [
       "www",
-      "development"
+      "development",
+      "tech-ethnography"
     ],
     "type": "writing",
     "date": "03/05/17",
@@ -88,7 +89,7 @@
   },
   "morphosis": {
     "path": "morphosis",
-    "text": "![71.3867188](morphosis1.jpg)\n\n![71.3867188](morphosis2.jpg)",
+    "text": "website for morphosis architects, no longer online.\n\n![71.3867188](morphosis1.jpg)\n\n![71.3867188](morphosis2.jpg)",
     "title": "morphosis",
     "collaborator": "folder studio",
     "date": "01/19/16",
@@ -174,6 +175,7 @@
     "path": "a-line-moving-across-a-window-once-every-year",
     "text": "[![62.25](line-moving.jpg)](http://a-line-moving-across-a-window-once-every-year.com/)",
     "title": "a line moving across a window once every year",
+    "url": "http://a-line-moving-across-a-window-once-every-year.com",
     "date": "01/30/15",
     "type": "project",
     "tags": [
