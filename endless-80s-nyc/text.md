@@ -1,0 +1,1 @@
+[![62.5](endless-80s-nyc.jpg)](http://labels.redbullmusicacademy.com)

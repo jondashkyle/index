@@ -1,0 +1,163 @@
+{
+  "web-thoughts-pt-1": {
+    "path": "web-thoughts-pt-1",
+    "text": "small sites,\nsmaller tools,\nkeep it basic.\n\nthere is no seperation of design & build,\nor design & programming,\nor whatever.\n\n## repeat these instructions until the project is complete\n\n- finish the project,\n  figure out what it actually is,\n  scrap all of it.\n- finish the project twice,\n  figure out what it is,\n  scrap half of it.\n- finish the project thrice,\n  figure out what it is,\n  scrap a third of it.\n\n## some ambiguous specifics\n\n- for design,\n  sketch or browser,\n  no adobe or whatever,\n  typography for the most part,\n  keep it basic! \n- for dev,\n  browserify,\n  no webpack or whatever,\n  es3 for the most part,\n  keep it basic!\n\n## data\n\nwith data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.\n\nalways use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.\n\n## remember the audience\n\ndesign and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.\n\ncompress. minify. gzip. keep the size down. keep it fast.\n\nbig ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.\n",
+    "title": "making and unmaking web sites, pt 1",
+    "tags": [
+      "www",
+      "development"
+    ],
+    "type": "writing",
+    "date": "03/05/17",
+    "series": "web thoughts"
+  },
+  "hassan-rahim": {
+    "path": "hassan-rahim",
+    "text": "[![62.5](hassan.jpg)](http://hassanrahim.com)",
+    "title": "hassan rahim",
+    "url": "http://hassanrahim.com",
+    "type": "project",
+    "tags": [
+      "development",
+      "www"
+    ],
+    "date": "10/20/16"
+  },
+  "suggestions": {
+    "path": "suggestions",
+    "text": "## objects\n\ncomputer\n13\" macbook basic config\n\nbackpack\n[merbags small black rolltop](http://merbags.com/)\n\nheadphones\n[beyerdynamic dt 770 pro](https://www.amazon.com/Beyerdynamic-770-PRO-250-ohms/dp/B0006NL5SM)\n\nearphones\n[shure se215](https://www.amazon.com/Shure-SE215-K-Isolating-Earphones-MicroDriver/dp/B004PNZFZ8) (clear)\n\nsynth/controller\n[teenage engineering op-1](https://teenage.engineering/products/op-1)\n\ndrums\n50s/60s slingerland\n\n## los angeles\n\nlunch\ndune\n\ndinner\nelf\n\nhike\nmount disappointment",
+    "title": "suggestions",
+    "date": "03/01/17",
+    "type": "writing",
+    "filter": true
+  },
+  "hardly-everything": {
+    "path": "hardly-everything",
+    "text": "hardly",
+    "title": "hardly everything",
+    "date": "06/18/16",
+    "type": "project",
+    "tags": [
+      "design",
+      "development",
+      "www"
+    ]
+  },
+  "2pac": {
+    "path": "2pac",
+    "text": "[![62.5](pac.jpg)](http://2pac.com)\n\nmade a website for 2pac, [2pac.com](http://2pac.com), with folder studio.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
+    "title": "2pac",
+    "collaborator": "folder studio",
+    "url": "http://2pac.com",
+    "date": "11/19/16",
+    "type": "project",
+    "tags": [
+      "development",
+      "music",
+      "www"
+    ]
+  },
+  "machine-project": {
+    "path": "machine-project",
+    "text": "[![81.25](machine1.jpg)](http://machineproject.net)\n\n[![118.6523438](machine2.jpg)](http://machineproject.net)",
+    "title": "machine project",
+    "url": "http://machineproject.net",
+    "collaborator": "folder studio",
+    "date": "04/25/16",
+    "type": "project",
+    "tags": [
+      "development",
+      "www"
+    ],
+    "style": "imgb1"
+  },
+  "endless-80s-nyc": {
+    "path": "endless-80s-nyc",
+    "text": "[![62.5](endless-80s-nyc.jpg)](http://labels.redbullmusicacademy.com)",
+    "title": "endless 80s nyc",
+    "client": "red bull music academy",
+    "url": "http://labels.redbullmusicacademy.com",
+    "date": "10/13/16",
+    "tags": [
+      "design",
+      "music",
+      "development",
+      "www"
+    ],
+    "type": "project"
+  },
+  "morphosis": {
+    "path": "morphosis",
+    "text": "![71.3867188](morphosis1.jpg)\n\n![71.3867188](morphosis2.jpg)",
+    "title": "morphosis",
+    "collaborator": "folder studio",
+    "date": "01/19/16",
+    "tags": [
+      "development",
+      "www"
+    ],
+    "type": "project"
+  },
+  "east-of-borneo": {
+    "path": "east-of-borneo",
+    "text": "[![62.5](eob1.jpg)](http://easofborneo.org)\n\n[![62.5](eob3.jpg)](http://easofborneo.org)",
+    "title": "east of borneo",
+    "date": "11/19/16",
+    "type": "project",
+    "collaborator": "folder studio",
+    "tags": [
+      "www",
+      "development"
+    ],
+    "style": "imgb1"
+  },
+  "site-header": {
+    "path": "site-header",
+    "text": "",
+    "title": "about",
+    "hidden": true,
+    "name": "jon-kyle",
+    "note": "currently accepting freelance projects",
+    "pages": {
+      "index": {
+        "text": "index",
+        "url": "/"
+      },
+      "about": {
+        "text": "about",
+        "url": "/about"
+      },
+      "images": {
+        "text": "images",
+        "url": "/images"
+      },
+      "contact": {
+        "text": "contact",
+        "url": "mailto:contact@jon-kyle.com"
+      }
+    },
+    "filters": {
+      "all": {
+        "text": "all",
+        "filter": ""
+      },
+      "projects": {
+        "text": "projects",
+        "filter": "project"
+      },
+      "writing": {
+        "text": "writing",
+        "filter": "writing"
+      },
+      "updates": {
+        "text": "updates",
+        "filter": "update"
+      }
+    },
+    "tags": [
+      "project",
+      "www",
+      "music"
+    ]
+  }
+}

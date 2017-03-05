@@ -1,0 +1,14 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon-Kyle <contact@jon-kyle.com> (http://jon-kyle.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "spod": "^1.0.1"
+  }
+}
