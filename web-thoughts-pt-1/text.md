@@ -1,28 +1,57 @@
-## tools
-- small sites, smaller tools, keep it basic.
-- big ups to choo. small, opinionated, community built, and not sponsored by an corperate boheamoth.
+this is loose collection of things relating to projects involving the internet, what that generally looks like, and how i’d like it to look in the future(s).
 
-## neo-networking
+small sites, smaller tools, keep it basic!
 
-- the internet without the internet
+- data
+  - keep it flat
+  - keep it immutable
+  - store references to unique ids
+  - avoid arrays, map over object values
+- design
+  - sketch or browser
+  - no adobe or whatever
+  - typography for the most part
+  - keep it basic! 
+- dev
+  - browserify
+  - no webpack or whatever
+  - [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
+  - keep it basic!
+- deployment
+  - aim for the worst connections
+  - aim for the worst hardware
+  - compress
+  - minify
+  - gzip
+
+## a study of opposing value systems
+
+```
+open                                closed
+peers                                users
+distributed                    centralized
+connective                       connected
+modular                           singular
+sporadic                          constant
+community                         investor
+specialized                        generic
+expressiveness                   usability
+phyles                            startups
+finite                             endless
+do it with others         do it for others
+```
+
+- i made a [distributed web block](https://www.are.na/jon-kyle-mohr/distributed-web) on arena.
+- very interested in [beaker](https://beakerbrowser.com/), a [dat](https://datproject.org/) powered browser which creating an open p2p layer over http.
+- forking an entire site as an evolution of view source.
+- contribute to the internet without needing to pay hosting or using a proprietary service.
+
+## build
+
+i’m using [choo](https://github.com/yoshuawuyts/choo) for everything front-end. it’s extremely lightweight and simple to understand. [here is a reference](https://github.com/jondashkyle/project-starterkit) for how i’m structuring, developing and deploying choo projects.
 
 ## repeat these instructions until the project is complete
 
-- finish the project once, what is it, scrap all of it.
-- finish the project twice, what is it, scrap half of it.
-- finish the project thrice, what is it, scrap a third of it.
-
-## some ambiguous specifics
-
-- for design, sketch or browser, no adobe or whatever, typography for the most part, keep it basic! 
-- for dev, browserify, no webpack or whatever, [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node), keep it basic!
-
-## data
-
-- with data structures and state, keep it flat as possible. chances are you don’t know what the structure is, so avoid nesting. if you need it, store a reference to it’s unique id.
-- always use `objects`. no `arrays`. turn the values of the `object` into an `array` and use methods like `filter`, `map`, `reduce` and `sort`.
-
-## visitors
-
-- design and build sites for the worst machines and the worst connections. accessibility. don’t keep the data. opt in, not out.
-- compress. minify. gzip. keep the size down. keep it fast.
+- finish the project, scrap all of it.
+- finish the project, scrap half of it.
+- finish the project, scrap a third of it.
