@@ -1,5 +1,3 @@
-this is loose collection of things relating to projects involving the internet, what that generally looks like, and how i’d like it to look in the future(s).
-
 small sites, smaller tools, keep it basic!
 
 - data
@@ -11,12 +9,10 @@ small sites, smaller tools, keep it basic!
   - sketch or browser
   - no adobe or whatever
   - typography for the most part
-  - keep it basic! 
 - dev
   - browserify
   - no webpack or whatever
   - [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
-  - keep it basic!
 - deployment
   - aim for the worst connections
   - aim for the worst hardware
