@@ -2,7 +2,7 @@ i’ve had ongoing collaborations with [rbma](http://redbullmusicacademy.com) si
 
 this project wasn’t about digital v. analog, or suggesting one way of listening is purer than another. instead, it was a continuum of the conversations surrounding modern music consumption via streaming services in which a degradation of access, not quality, is encountered as the result of shifting licensing agreements and dropped connections.
 
-![62.5!shattered.mp4](thumbnail.jpg)
+![62.5 --video shattered.mp4](thumbnail.jpg)
 
 the site made heavy use of the web audio api to handle real-time signal processing in the browser. users could select a listening session duration anywhere between a minute and twenty-four hours. it was important to communicate the idea of degradation without relying on analog auditory tropes like tape hiss.
 

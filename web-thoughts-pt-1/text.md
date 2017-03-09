@@ -1,9 +1,7 @@
 small sites, smaller tools, keep it basic!
 
 - data
-  - keep it flat
-  - keep it immutable
-  - store references to unique ids
+  - keep it flat, store references to unique ids
   - avoid arrays, map over object values
 - design
   - sketch or browser
@@ -14,13 +12,13 @@ small sites, smaller tools, keep it basic!
   - no webpack or whatever
   - [es3 for the most part](https://github.com/yoshuawuyts/tiny-guide-to-non-fancy-node)
 - deployment
-  - aim for the worst connections
-  - aim for the worst hardware
+  - accommodate the worst connections
+  - accommodate the worst hardware
   - compress
   - minify
   - gzip
 
-## a study of opposing value systems
+## a study of opposing(?) value systems
 
 ```
 open                                closed
@@ -28,13 +26,8 @@ peers                                users
 distributed                    centralized
 connective                       connected
 modular                           singular
-sporadic                          constant
-community                         investor
-specialized                        generic
 expressiveness                   usability
 phyles                            startups
-finite                             endless
-do it with others         do it for others
 ```
 
 - i made a [distributed web block](https://www.are.na/jon-kyle-mohr/distributed-web) on arena.
