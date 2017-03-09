@@ -29,10 +29,6 @@
     "writing": {
       "text": "words",
       "filter": "writing"
-    },
-    "updates": {
-      "text": "updates",
-      "filter": "update"
     }
   },
   "tags": [

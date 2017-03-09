@@ -1,12 +1,14 @@
-![66.5625 --style py2 pxvw10](me.jpg)
+![66.5625 --style py2 pxvw20](me3.jpg)
 
-going to make this a little looser, maybe a little more personal than usual. am never (un)conciouslly (un)fronting, but i do find myself reflexively considering self presentation, which affects what and how i share share things. sort of an epidemic of the state of the net right now, it seems.
+going to make this a little looser, maybe a little more personal than usual. am never (un)conciouslly fronting, but i do find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough to create a haze of professionalism, which is some bs.
 
-anyway, i digress but will try to keep it brief. tldr;
+anyway, i digress but will try to keep it brief with an overview of the past several months. tldr;
 
-- released [persona.co](http://persona.co), jammed w/ [folder studio](http://folderstudio.com), other projects w/ friends, etc…
+- released [persona.co](http://persona.co)
+- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org)
+- released the first version of [hardly everything](http://hardlyeverything.com)
 - toured europe drumming w/ [anenon](http://brianallensimon.com).
-- am now in ny and taking on freelance projects which overlap design/development.
+- am now in ny and taking on freelance projects which overlap that fuzzy design/development zone.
 - thinking about data ownership, service-free self-publishing, p2p-networks/post-cdn infastructure, and how all of this relates back to cultural projects & usable tools for people, etc…
 
 ## whats gone on
@@ -28,15 +30,9 @@ back in april of last year i was contributing to [persona](http://persona.co) wi
 
 ![75 --style py2 pxvw15 bg-black](anenon.jpg)
 
-in december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great. some of the spots we stopped:
+in december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.
 
-- [madeira](http://digitalinberlin.eu/)
-- london
-- berlin (berghain kantine)
-- brussels
-- the hauge
-- bordeaux
-- luxembourg
+some of the spots we stopped included [madeira](http://digitalinberlin.eu/), london, berlin (berghain kantine), brussels, the hauge, bordeaux, and luxembourg.
 
 ## what’s going on
 
@@ -48,6 +44,6 @@ in december i toured europe playing drums with [brian allen simon](brianallensim
 
 ## what’s to go on
 
-basically, i feel like shit most of the time when i’m on the internet. researching what is loosely being called distributed web, or using p2p networking as a layer ontop of http to give ownership over data to authors. will be sharing more about this soon, but looking to find ways of relating the technology back to creating useful tools for people, and galvanizing awareness over what are obviously some of the more important social issues of the moment.
+basically, not really into the way the internet feels. unsure of how to talk about this without dipping into cliche.
 
-also want to be doing good projects with friends regardless of what that means. fuck the hype!
+researching what is loosely being called distributed web. will be sharing more about this, but looking to find ways of applying the technology back to creating useful tools for people, and galvanizing awareness over what are obviously some of the more important social issues of the moment.
