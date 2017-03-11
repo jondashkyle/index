@@ -3,5 +3,6 @@
   "tags": ["www", "development", "ethnography"],
   "type": "writing",
   "date": "03/05/17",
-  "series": "web thoughts"
+  "series": "web thoughts",
+  "draft": "true"
 }

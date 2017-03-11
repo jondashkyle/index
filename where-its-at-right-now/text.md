@@ -1,8 +1,8 @@
-![66.5625 --style py2 pxvw20](me3.jpg)
+![100 --style py2 pxvw20](me.jpg)
 
-going to make this a little looser, maybe a little more personal than usual. am never (un)conciouslly fronting, but i do find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough to create a haze of professionalism, which is some bs.
+going to make this a little looser, maybe a little more personal than usual. typical find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough. anyway, who cares.
 
-anyway, i digress but will try to keep it brief with an overview of the past several months. tldr;
+a quick overview of the past few months. tldr;
 
 - released [persona.co](http://persona.co)
 - collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org)
@@ -28,7 +28,7 @@ back in april of last year i was contributing to [persona](http://persona.co) wi
 
 - creating a few customizable webgl backdrops, etc…
 
-![75 --style py2 pxvw15 bg-black](anenon.jpg)
+![75 --style py2 pxvw15](anenon.jpg)
 
 in december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.
 
@@ -39,11 +39,7 @@ some of the spots we stopped included [madeira](http://digitalinberlin.eu/), lon
 - after completing persona i ended up working on a series of projects with my good friends at [folder studio](http://folderstudio.com). we’ve worked together on and off a number of years now. two projects which stand out are [2pac.com](http://2pac.com) and [eastofborneo.org](http://eastofborneo.org). continuing to do projects with them, some good stuff in the works.
 
 
-- i’m in new york now. had been living in los angeles for several years. i wouldn’t say that i live here, but i wouldn’t say that i don’t live here either. if you’re here and think there might be a project, or want to say hello, please do!
+- i’m in new york now. had been living in los angeles for several years. i wouldn’t say that i live here, but i wouldn’t say that i don’t live here, either. if you’re here and think there might be a project, or want to say hello, please do!
 
 
-## what’s to go on
-
-basically, not really into the way the internet feels. unsure of how to talk about this without dipping into cliche.
-
-researching what is loosely being called distributed web. will be sharing more about this, but looking to find ways of applying the technology back to creating useful tools for people, and galvanizing awareness over what are obviously some of the more important social issues of the moment.
+- devoting substantial time to the distributed web. data ownership and network infastructure.

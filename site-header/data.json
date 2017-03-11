@@ -8,13 +8,13 @@
       "text": "index",
       "url": "/"
     },
-    "images": {
-      "text": "images",
-      "url": "/images"
-    },
     "about": {
       "text": "about",
       "url": "/about"
+    },
+    "contact": {
+      "text": "contact",
+      "url": "mailto:contact@jon-kyle.com"
     }
   },
   "filters": {
@@ -27,7 +27,7 @@
       "filter": "project"
     },
     "writing": {
-      "text": "words",
+      "text": "text",
       "filter": "writing"
     }
   },

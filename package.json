@@ -1,7 +1,7 @@
 {
   "name": "index",
   "version": "1.0.0",
-  "description": "",
+  "description": "a collection of works, writings and updates.",
   "main": "data.json",
   "scripts": {
     "start": "spod watch"
@@ -10,5 +10,19 @@
   "license": "ISC",
   "devDependencies": {
     "spod": "^1.0.1"
-  }
+  },
+  "dependencies": {
+    "fs-extra": "^2.0.0",
+    "simple-git": "^1.67.0",
+    "spod": "^1.0.1",
+    "xtend": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jondashkyle/index.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jondashkyle/index/issues"
+  },
+  "homepage": "https://github.com/jondashkyle/index#readme"
 }
