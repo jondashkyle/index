@@ -3,6 +3,12 @@
   "date": "03/05/17",
   "hidden": true,
   "projects": {
-    
+    "freelance": {
+      "title": "freelance",
+      "date": ["2016", ""]
+    },
+    "cargo": {
+      "date": ["2009", "2016"]
+    }  
   }
 }

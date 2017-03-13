@@ -51,3 +51,6 @@ special thanks to [brian allen simon](http://brianallensimon.com) for initiating
   <li>Aisha Devi</li>
   <li>Lesley Flanigan</li>
 </ul>
+
+## select press
+[pitchfork](http://pitchfork.com/news/65190-william-basinski-fatima-al-qadiri-fennesz-wolf-eyes-more-make-songs-that-disappear-after-24-hours-listen/), [vice/thump](https://thump.vice.com/en_us/article/red-bull-music-academy-shattered-streams-william-basinski), [fACT](http://www.factmag.com/2016/05/02/rbma-shattered-streams-william-basinski-mumdance/), [tiny mixtapes](http://www.tinymixtapes.com/news/william-basinski-fennesz-fatima-al-qadiri-wolf-eyes-contribute-exclusive-music-rbmas-ephemeral)
