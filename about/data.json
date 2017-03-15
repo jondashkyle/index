@@ -2,6 +2,7 @@
   "title": "about",
   "date": "03/05/17",
   "hidden": true,
+  "template": "",
   "projects": {
     "freelance": {
       "title": "freelance",
@@ -9,6 +10,6 @@
     },
     "cargo": {
       "date": ["2009", "2016"]
-    }  
+    }
   }
 }

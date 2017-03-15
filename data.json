@@ -333,5 +333,13 @@
       "music",
       "performance"
     ]
+  },
+  "introduction": {
+    "path": "introduction",
+    "text": "![100 --style py4 pxvw15](me.jpg)\n\ncurrently in ny and accepting freelance projects.\n\n- thinking\n- about\n- e",
+    "title": "introduction",
+    "template": "intro",
+    "image": "me.jpg",
+    "hidden": true
   }
 }
