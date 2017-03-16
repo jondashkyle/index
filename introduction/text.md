@@ -1,7 +1,4 @@
-![100 --style py4 pxvw15](me.jpg)
-
-currently in ny and accepting freelance projects.
-
-- thinking
-- about
-- e
+- currently in ny and [accepting freelance projects](mailto:contact@jon-kyle.com)
+- this site is sort of an ongoing experiment so its gonna break
+- same w/ the writing (i’m bad at it but want to get better)
+- the profile photo is an image scaled down to 60px, then scaled up. the blurring is the browser’s resizing algorithm attempting to interpolate and smooth the (relatively large) individual pixels.
