@@ -8,31 +8,32 @@
       "development",
       "ethnography"
     ],
-    "type": "writing",
-    "date": "03/05/17",
+    "type": "note",
+    "date": "17/03/05",
     "series": "web thoughts",
-    "draft": "true"
+    "draft": true
   },
   "hassan-rahim": {
     "path": "hassan-rahim",
     "text": "[![62.5](hassan.jpg)](http://hassanrahim.com)\n\na quick one page banger for hassan. a few build notes:\n\n- [choo](https://github.com/yoshuawuyts/choo) is used, even though it’s only a static little one pager. the nice thing about it being such a small lib (<5kb) is you can drop it in pretty guilt free.\n- choo’s state is configured by an `object` in the `body` of `index.html`. this one didn’t need a cms, but by storing the initial state outside of the bundle it remains editable by hassan for quick copy edits.\n- [gr8](https://github.com/jongacnik/gr8) made it easy to get the basic page layout and structure in place.\n- some [epileptic.css](https://gist.github.com/jondashkyle/8143987) in there too.",
     "title": "hassan rahim",
     "url": "http://hassanrahim.com",
+    "external": true,
     "type": "project",
     "tags": [
       "development",
       "www"
     ],
-    "date": "10/20/16"
+    "date": "16/10/20"
   },
   "suggestions": {
     "path": "suggestions",
-    "text": "## objects\n\ncomputer\n13\" macbook basic config\n\nbackpack\n[merbags small black rolltop](http://merbags.com/)\n\nheadphones\n[beyerdynamic dt 770 pro](https://www.amazon.com/Beyerdynamic-770-PRO-250-ohms/dp/B0006NL5SM)\n\nearphones\n[shure se215](https://www.amazon.com/Shure-SE215-K-Isolating-Earphones-MicroDriver/dp/B004PNZFZ8) (clear)\n\nsynth/controller\n[teenage engineering op-1](https://teenage.engineering/products/op-1)\n\ndrums\n50s/60s slingerland\n\n## los angeles\n\nlunch\ndune\n\ndinner\nelf\n\nhike\nmount disappointment",
+    "text": "## objects\n\ncomputer\n[13\" macbook basic config](https://www.apple.com/macbook/)\n\nbackpack\n[merbags small black rolltop](http://merbags.com/)\n\nheadphones\n[beyerdynamic dt 770 pro](https://www.amazon.com/Beyerdynamic-770-PRO-250-ohms/dp/B0006NL5SM)\n\nearphones\n[shure se215](https://www.amazon.com/Shure-SE215-K-Isolating-Earphones-MicroDriver/dp/B004PNZFZ8) (clear)\n\nsynth/controller\n[teenage engineering op-1](https://teenage.engineering/products/op-1)\n\ndrums\n[50s/60s slingerland](http://www.vintagedrumguide.com/slingerland.html)\n\n## los angeles\n\nlunch\n[dune](http://dune.kitchen/)\n\ndinner\n[elf](http://elfcafe.com/) or [lasa](http://www.lasa-la.com/)\n\nhike\n[mount disappointment](https://www.hikespeak.com/trails/san-gabriel-peak-mt-disappointment/)",
     "title": "suggestions",
-    "date": "03/01/17",
-    "type": "writing",
+    "date": "17/03/01",
+    "type": "note",
     "tags": [
-      "writing"
+      "note"
     ],
     "filter": true
   },
@@ -40,7 +41,7 @@
     "path": "hardly-everything",
     "text": "![62.25 --video video.mp4](hardlyeverything1.jpg)",
     "title": "hardly everything",
-    "date": "06/18/16",
+    "date": "16/06/18",
     "type": "project",
     "tags": [
       "design",
@@ -54,7 +55,8 @@
     "title": "2pac",
     "collaborator": "folder studio",
     "url": "http://2pac.com",
-    "date": "11/23/16",
+    "external": true,
+    "date": "16/11/23",
     "type": "project",
     "tags": [
       "development",
@@ -67,8 +69,9 @@
     "text": "[![81.25](machine1.jpg)](http://machineproject.net)\n\n[![118.6523438](machine2.jpg)](http://machineproject.net)",
     "title": "machine project",
     "url": "http://machineproject.net",
+    "external": true,
     "collaborator": "folder studio",
-    "date": "04/25/16",
+    "date": "16/04/25",
     "type": "project",
     "tags": [
       "development",
@@ -82,7 +85,8 @@
     "title": "endless 80s nyc",
     "client": "red bull music academy",
     "url": "http://labels.redbullmusicacademy.com",
-    "date": "05/29/15",
+    "external": true,
+    "date": "15/05/29",
     "tags": [
       "design",
       "music",
@@ -96,7 +100,7 @@
     "text": "website for morphosis architects, no longer online.\n\n![71.3867188](morphosis1.jpg)\n\n![71.3867188](morphosis2.jpg)",
     "title": "morphosis",
     "collaborator": "folder studio",
-    "date": "01/19/16",
+    "date": "16/01/19",
     "tags": [
       "development",
       "www"
@@ -107,61 +111,22 @@
     "path": "east-of-borneo",
     "text": "[![62.5](eob1.jpg)](http://easofborneo.org)\n\n[![62.5](eob3.jpg)](http://easofborneo.org)",
     "title": "east of borneo",
-    "date": "11/19/16",
+    "date": "17/02/27",
     "type": "project",
     "collaborator": "folder studio",
+    "url": "http://eastofborneo.org",
+    "external": true,
     "tags": [
       "www",
       "development"
     ],
     "style": "imgb1"
   },
-  "site-header": {
-    "path": "site-header",
-    "text": "",
-    "title": "about",
-    "hidden": true,
-    "name": "jon-kyle",
-    "note": "ny, ny\n\ncurrently accepting freelance projects",
-    "pages": {
-      "index": {
-        "text": "index",
-        "url": "/"
-      },
-      "about": {
-        "text": "about",
-        "url": "/about"
-      },
-      "contact": {
-        "text": "contact",
-        "url": "mailto:contact@jon-kyle.com"
-      }
-    },
-    "filters": {
-      "all": {
-        "text": "all",
-        "filter": ""
-      },
-      "projects": {
-        "text": "projects",
-        "filter": "project"
-      },
-      "writing": {
-        "text": "text",
-        "filter": "writing"
-      }
-    },
-    "tags": [
-      "project",
-      "www",
-      "music"
-    ]
-  },
   "shattered-streams": {
     "path": "shattered-streams",
-    "text": "i’ve had ongoing collaborations with [rbma](http://redbullmusicacademy.com) since 2015, when I performed at the rbma fest in new york. the most recent of these, shattered streams, was an experiment in musical ephemerality, presenting original music from 31 artists throughout may 2016. each song was available to stream on a loop for a maximum period of 24 hours, degrading over that time until they simply disappeared.\n\nthis project wasn’t about digital v. analog, or suggesting one way of listening is purer than another. instead, it was a continuum of the conversations surrounding modern music consumption via streaming services in which a degradation of access, not quality, is encountered as the result of shifting licensing agreements and dropped connections.\n\n![62.5 --video shattered.mp4](thumbnail.jpg)\n\nthe site made heavy use of the web audio api to handle real-time signal processing in the browser. users could select a listening session duration anywhere between a minute and twenty-four hours. it was important to communicate the idea of degradation without relying on analog auditory tropes like tape hiss.\n\nthe final chain relies upon several convolvers with extreme impulse reactions each phasing in and out of each other, along with eq modulation and a touch of distortion.\n\nthe audio stream was accompanied by 31 hand animated six frame loops which were fed through visual displacement and feedback processing, all of which was created by [andrew ohlmann](http://andrewohlmann.com). parameters were frequency-mapped to the audio being played to create an identifiable cohesion within the chaos.\n\nthe site was a frameworkless single page app. we relied on [browserify](http://browserify.org) to bundle everything up, and [pixi](http://www.pixijs.com) was heavily used for the stream visuals.\n\nafter the stream concluded, it was replaced by an archive page which is currently accessible by visiting [streams.redbullmusicacademy.com](http://streams.redbullmusicacademy.com).\n\nspecial thanks to [brian allen simon](http://brianallensimon.com) for initiating the project, and [andrew ohlmann](http://andrewohlmann.com).\n\n## participating artists\n\n<ul class=\"tc2 columns ttl\">\n  <li>Anenon</li>\n  <li>William Basinski</li>\n  <li>Fatima Al Qadiri</li>\n  <li>Eluvium</li>\n  <li>Patten</li>\n  <li>Joey Anderson</li>\n  <li>Claude Speeed</li>\n  <li>White Visitation</li>\n  <li>Fennesz</li>\n  <li>Klara Lewis</li>\n  <li>Beatrice Dillon</li>\n  <li>Zebra Katz</li>\n  <li>Aurora Halal</li>\n  <li>EVOL</li>\n  <li>Jefre Cantu-Ledesma</li>\n  <li>M. Geddes Gengras</li>\n  <li>Mumdance</li>\n  <li>Kuedo</li>\n  <li>Sepalcure</li>\n  <li>Nkisi</li>\n  <li>Oren Ambarchi</li>\n  <li>3.33</li>\n  <li>Egyptrixx</li>\n  <li>John Roberts</li>\n  <li>Wolf Eyes</li>\n  <li>Tin Man</li>\n  <li>Hieroglyphic Being</li>\n  <li>Kara-Lis Coverdale</li>\n  <li>Ipek Gorgun</li>\n  <li>Aisha Devi</li>\n  <li>Lesley Flanigan</li>\n</ul>\n\n## select press\n[pitchfork](http://pitchfork.com/news/65190-william-basinski-fatima-al-qadiri-fennesz-wolf-eyes-more-make-songs-that-disappear-after-24-hours-listen/), [vice/thump](https://thump.vice.com/en_us/article/red-bull-music-academy-shattered-streams-william-basinski), [fACT](http://www.factmag.com/2016/05/02/rbma-shattered-streams-william-basinski-mumdance/), [tiny mixtapes](http://www.tinymixtapes.com/news/william-basinski-fennesz-fatima-al-qadiri-wolf-eyes-contribute-exclusive-music-rbmas-ephemeral)",
+    "text": "# Shattered Streams\n\nShattered Streams was a website which went online May 1st, 2016. Thirty musicians were comissioned to contribute a sound loop, each one streaming for only 24 hours, disintegrating as the day passed. The site went offline May 31st, when no loops remained.\n\n## Musical Ephemerality\n\nSound reproduction and recorded music are inseperable from storage and transmission. While some formats are most commonly associatedd with being forms of technology (CDs, iPods), all are technological (phonographs, vinyl).\n\nComparisons of analog and digital often veer towards cliche; those of aesthetics and warmth, or persuits of ever purer listening, afforded only through increasingly unaffordable equipment upgrades.\n\nChoosing to ignore these tropes, instead focus on gradations of temporality and access as popular technology morphs over time. Yes, you now have unlimited and immediate access to a metaphorically infite library of music with a Spotify subscription, until the license to your favorite record is revoked or the network goes down.\n\n## Background\n\nShattered Streams came about when Brian Simon (Anenon) had the idea to create a music application which would degrade a song each time you listened to it, approximating the damage done by a needle when passing over the grooves of a vinyl record.\n\n## Questions\n\nIn what way does unlimited and immediate access to a metaphorically infinite library mold your relation to the music?\n\nIn what way does your relation to the music change when that access is restricted or removed?\n\nHow does the subconcious awareness of slowly destroying your favorites shape your relation to them?\n\n\n## WIP\n\nThis isn’t a condition unique to digital. Nolstalgic tendencies associated with analog, those of impermanence and fading create a sense of uniqueness.\n\n- Music as topic to expand on ideas of decentralization, network dependence and offline first.\n- Digital is lossless, but is not a neutral medium.\n- Streaming as discreet performance, improvisational playback\n- Relationship with a listener and a favorite piece of music when through analog (degrading) and digital (endless) playback.\n- Performance\n\n## Digital Degredation\n\n- Media formats\n- Streaming wars\n\n## Contributing artists in order of playback\n\nAnenon, William Basinski, Fatima Al Qadiri, Eluvium, Patten, Joey Anderson, Claude Speeed, White Visitation, Fennesz, Klara Lewis, Beatrice Dillon, Zebra Katz, Aurora Halal, EVOL, Jefre Cantu-Ledesma, M. Geddes Gengras, Mumdance, Kuedo, Sepalcure, Nkisi, Oren Ambarchi, 3.33, Egyptrixx, John Roberts, Wolf Eyes, Tin Man, Hieroglyphic Being, Kara-Lis Coverdale, Ipek Gorgun, Aisha Devi, and Lesley Flanigan.\n\n## Select Press\n[Pitchfork](http://pitchfork.com/news/65190-william-basinski-fatima-al-qadiri-fennesz-wolf-eyes-more-make-songs-that-disappear-after-24-hours-listen/), [Vice](https://thump.vice.com/en_us/article/red-bull-music-academy-shattered-streams-william-basinski), [FACT](http://www.factmag.com/2016/05/02/rbma-shattered-streams-william-basinski-mumdance/), [Tiny Mixtapes](http://www.tinymixtapes.com/news/william-basinski-fennesz-fatima-al-qadiri-wolf-eyes-contribute-exclusive-music-rbmas-ephemeral)\n\n\n---\n\n# DRAFTS\n\n## Topics\n\n- access and ownership\n- digital degredeation\n- musical ephemerality\n- listening\n- “rare mp3s”\n- duration and interval\n- rbma\n\n- spotify rain exclusive\n- http://www.theverge.com/2017/4/4/15177004/spotify-premium-two-week-exclusive-albums-licensing-universal-music-group\n\nhttp://conversations.e-flux.com/t/the-rise-of-music-streaming-and-the-privatization-of-listening/6459\n\n## Background\n\nI grew up in a musical family. Both parents were members of the same top 40s coverband. My father went on to engineer studio sessions and produce groups. During the late 90s he also created a proto-social-network for indipendent musicians to resource share online. Growing up in the studio I watched him program both MIDI and HTML.\n\n- Is this too personal?\n- Should set an understanding of the media landscape of the late 90s, the transition from CD to iTunes to streaming.\n---",
     "title": "shattered streams",
-    "date": "02/04/16",
+    "date": "16/02/04",
     "url": "http://daily.redbullmusicacademy.com/specials/2016-shattered-streams/",
     "type": "project",
     "tags": [
@@ -176,7 +141,8 @@
     "text": "[![62.25](line-moving.jpg)](http://a-line-moving-across-a-window-once-every-year.com/)",
     "title": "a line moving across a window once every year",
     "url": "http://a-line-moving-across-a-window-once-every-year.com",
-    "date": "01/30/15",
+    "external": true,
+    "date": "15/01/30",
     "type": "project",
     "tags": [
       "www"
@@ -215,7 +181,7 @@
     "path": "cargo",
     "text": "![56.25](cargo.jpg)\n\nbetween 2010–2016 i was part of the core cargo team, contributing to front-end development and design. \n\n<div class=\"tc3 tcg1 columns\">\n<div>![62.5](cargo1.jpg)</div>\n<div>![62.5](cargo2.jpg)</div>\n<div>![62.5](cargo8.jpg)</div>\n<div>![62.5](cargo3.jpg)</div>\n<div>![62.5](cargo6.jpg)</div>\n<div>![62.5](cargo7.jpg)</div>\n<div>![62.5](cargo4.jpg)</div>\n<div>![62.5](cargo5.jpg)</div>\n<div>![62.5](cargo9.jpg)</div>\n</div>",
     "title": "cargo collective",
-    "date": "10/01/09",
+    "date": "09/10/01",
     "url": "http://cargocollective.com",
     "type": "project",
     "tags": [
@@ -226,9 +192,9 @@
   },
   "spod": {
     "path": "spod",
-    "text": "`\nnpm i spod\n`\n\nSPit Out Data (spod) is a tiny cli for generating json from a flat directory structure. each entry contains meta data (json) and text (markdown). you can think of it as creating a static pseudo-api, handy for loading into the state of a simple webapp.\n\ni’m using it on this site to do just that by having one repo for [the content](https://github.com/jondashkyle/index), and another for the [source of the site](https://github.com/jondashkyle/jon-kyle.com). it’s nice splitting this up, as when i revisit the site next time i won’t need to rethink the content structure as everything is stored as flat JSON.\n\nfor more take a look at the [repository readme](https://github.com/jondashkyle/spod).\n",
+    "text": "```\nnpm i spod\n```\n\nSPit Out Data (spod) is a tiny cli for generating json from a flat directory structure. each entry contains meta data (json) and text (markdown). you can think of it as creating a static pseudo-api, handy for loading into the state of a simple webapp.\n\ni’m using it on this site to do just that by having one repo for [the content](https://github.com/jondashkyle/index), and another for the [source of the site](https://github.com/jondashkyle/jon-kyle.com). it’s nice splitting this up, as when i revisit the site next time i won’t need to rethink the content structure as everything is stored as flat JSON.\n\nfor more take a look at the [repository readme](https://github.com/jondashkyle/spod).\n",
     "title": "spod (spit out data)",
-    "date": "03/06/17",
+    "date": "17/03/06",
     "tags": [
       "www",
       "development"
@@ -241,8 +207,9 @@
     "text": "",
     "title": "between broadcast and community: the design of virtual spaces",
     "client": "the atlantic",
-    "date": "09/13/13",
+    "date": "13/09/13",
     "url": "https://www.theatlantic.com/technology/archive/2013/09/between-broadcast-and-community-the-design-of-virtual-spaces/279763/?utm_source=feed",
+    "external": true,
     "type": "interview",
     "tags": [
       "www"
@@ -252,7 +219,7 @@
     "path": "where-its-at-right-now",
     "text": "going to make this a little looser, maybe a little more personal than usual. typical find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough.\n\na quick overview of the past few months. tldr;\n\n- released [persona.co](http://persona.co)\n- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org)\n- released the first version of [hardly everything](http://hardlyeverything.com)\n- toured europe drumming w/ [anenon](http://brianallensimon.com).\n- am now in ny and taking on freelance projects which overlap that fuzzy design/development zone.\n- thinking about data ownership, service-free self-publishing, p2p-networks/post-cdn infastructure, and how all of this relates back to cultural projects & usable tools for people, etc…\n\n## whats gone on\n\nback in april of last year i was contributing to [persona](http://persona.co) with the team at [cargo](http://cargocollective.com), and saw it through to public release. there were a few heavy contributions, none of which would’ve been possible without the rest of the team.\n\n![65.5](persona.jpg)\n\n- “base unit”, an abstract value used to create universal designs. sort of post-responsive design: using ratios derived from window proportion (not just width) with non-linear scaling to set a foundational integir applied to elements throughout a design. for instance, when the screen gets increasingly “phone sized”, reduce the margin around the page, but increase the point size of the body typography while reducing that of the headings. \n\n\n- the design of the admin, from overall look/feel to individual interface components and interactions. this included discovering ways of interacting with somewhat obscured tooling, such as base unit, while enabling the fidelity of control over design those familiar with cargo had come to expect over the years.\n\n\n- whereas cargo had several unique designs, there is only a single persona design. this single design has styles, which are different configurations of that one design. i suppose this sounds like more of an implimentation detail, but it was a substantial rethinking of how to structure the page. sort of attempting to accomidate infinite permutation as opposed to specialized customization.\n\n\n- creating a few customizable webgl backdrops, etc…\n\n![75 --style py2 pxvw15](anenon.jpg)\n\nin december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.\n\nsome of the spots we stopped included [madeira](http://digitalinberlin.eu/), london, berlin (berghain kantine), brussels, the hauge, bordeaux, and luxembourg.\n\n## what’s going on\n\n- after completing persona i ended up working on a series of projects with my good friends at [folder studio](http://folderstudio.com). we’ve worked together on and off a number of years now. two projects which stand out are [2pac.com](http://2pac.com) and [eastofborneo.org](http://eastofborneo.org). continuing to do projects with them, some good stuff in the works.\n\n\n- i’m in new york now. had been living in los angeles for several years. i wouldn’t say that i live here, but i wouldn’t say that i don’t live here, too. if you’re here and think there might be a project, or want to say hello, please do!\n\n\n- devoting substantial time to the distributed web. data ownership and network infastructure. making projects with the lowest budgets for the worst connections, the cheapest hardware, etc…",
     "title": "where it’s at right now",
-    "date": "03/09/17",
+    "date": "17/03/09",
     "type": "update",
     "tags": [
       "writing"
@@ -317,7 +284,7 @@
     "text": "performed with anenon and sam gendel at [the broad](http://thebroad.org/) for the second [nonobject(ive)](http://www.thebroad.org/programs/summer-happenings-sky-ferreira-richard-hell-haxan-cloak-kaitlyn-aurelia-smith-mas-ysa-ryan) summer happening. richard hell, haxan cloak and kaitlyn aurelia smith performed in addition to dance choreographed by ryan heffington.\n\n## select press\n[video](https://www.youtube.com/watch?v=crqEM4UFC90), [la times](http://www.latimes.com/entertainment/music/la-et-ms-broad-summer-happenings-ferreira-hell-haxan-cloak-20160729-snap-story.html)",
     "title": "nonobject(ive) at the broad",
     "type": "performance",
-    "date": "07/30/16",
+    "date": "16/07/30",
     "tags": [
       "music",
       "performance"
@@ -328,7 +295,7 @@
     "text": "performed with anenon, sam gendel and yvette holswarth at the first evening of [monument](http://www.moca.org/program/monument) at moca, la.",
     "title": "monument at moca",
     "type": "performance",
-    "date": "01/21/16",
+    "date": "16/01/21",
     "tags": [
       "music",
       "performance"
@@ -341,5 +308,16 @@
     "template": "intro",
     "image": "me.jpg",
     "hidden": true
+  },
+  "site-meta": {
+    "path": "site-meta",
+    "text": "",
+    "title": "about",
+    "hidden": true,
+    "name": "jon-kyle",
+    "location": "ny, ny",
+    "note": "accepting freelance projects,\nfor now",
+    "twitter": "jondashkyle",
+    "email": "contact@jon-kyle.com"
   }
 }

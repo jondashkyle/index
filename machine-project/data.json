@@ -1,8 +1,9 @@
 {
   "title": "machine project",
   "url": "http://machineproject.net",
+  "external": true,
   "collaborator": "folder studio",
-  "date": "04/25/16",
+  "date": "16/04/25",
   "type": "project",
   "tags": ["development", "www"],
   "style": "imgb1"

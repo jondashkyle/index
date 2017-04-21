@@ -1,8 +1,10 @@
 {
   "title": "east of borneo",
-  "date": "02/27/17",
+  "date": "17/02/27",
   "type": "project",
   "collaborator": "folder studio",
+  "url": "http://eastofborneo.org",
+  "external": true,
   "tags": ["www", "development"],
   "style": "imgb1"
 }

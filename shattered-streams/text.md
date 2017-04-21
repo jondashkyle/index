@@ -4,13 +4,11 @@ Shattered Streams was a website which went online May 1st, 2016. Thirty musician
 
 ## Musical Ephemerality
 
-Sound reproduction and recorded music are inseperable from storage and transmission. While some formats are most commonly associated with being forms of technology (CDs, iPods), all are technological (phonographs, vinyl).
+Sound reproduction and recorded music are inseperable from storage and transmission. While some formats are most commonly associatedd with being forms of technology (CDs, iPods), all are technological (phonographs, vinyl).
 
 Comparisons of analog and digital often veer towards cliche; those of aesthetics and warmth, or persuits of ever purer listening, afforded only through increasingly unaffordable equipment upgrades.
 
 Choosing to ignore these tropes, instead focus on gradations of temporality and access as popular technology morphs over time. Yes, you now have unlimited and immediate access to a metaphorically infite library of music with a Spotify subscription, until the license to your favorite record is revoked or the network goes down.
-
-{--In what way does this access mold your relation to your music?--}
 
 ## Background
 
@@ -61,6 +59,11 @@ Anenon, William Basinski, Fatima Al Qadiri, Eluvium, Patten, Joey Anderson, Clau
 - “rare mp3s”
 - duration and interval
 - rbma
+
+- spotify rain exclusive
+- http://www.theverge.com/2017/4/4/15177004/spotify-premium-two-week-exclusive-albums-licensing-universal-music-group
+
+http://conversations.e-flux.com/t/the-rise-of-music-streaming-and-the-privatization-of-listening/6459
 
 ## Background
 

@@ -1,10 +1,11 @@
 {
   "title": "hassan rahim",
   "url": "http://hassanrahim.com",
+  "external": true,
   "type": "project",
   "tags": [
     "development",
     "www"
    ],
-  "date": "10/20/16"
+  "date": "16/10/20"
 }

@@ -1,7 +1,7 @@
 ## objects
 
 computer
-13" macbook basic config
+[13" macbook basic config](https://www.apple.com/macbook/)
 
 backpack
 [merbags small black rolltop](http://merbags.com/)
@@ -16,15 +16,15 @@ synth/controller
 [teenage engineering op-1](https://teenage.engineering/products/op-1)
 
 drums
-50s/60s slingerland
+[50s/60s slingerland](http://www.vintagedrumguide.com/slingerland.html)
 
 ## los angeles
 
 lunch
-dune
+[dune](http://dune.kitchen/)
 
 dinner
-elf
+[elf](http://elfcafe.com/) or [lasa](http://www.lasa-la.com/)
 
 hike
-mount disappointment
+[mount disappointment](https://www.hikespeak.com/trails/san-gabriel-peak-mt-disappointment/)

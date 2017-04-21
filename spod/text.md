@@ -1,6 +1,6 @@
-`
+```
 npm i spod
-`
+```
 
 SPit Out Data (spod) is a tiny cli for generating json from a flat directory structure. each entry contains meta data (json) and text (markdown). you can think of it as creating a static pseudo-api, handy for loading into the state of a simple webapp.
 

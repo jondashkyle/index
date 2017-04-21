@@ -2,7 +2,8 @@
   "title": "endless 80s nyc",
   "client": "red bull music academy",
   "url": "http://labels.redbullmusicacademy.com",
-  "date": "05/29/15",
+  "external": true,
+  "date": "15/05/29",
   "tags": ["design", "music", "development", "www"],
   "type": "project"
 }

@@ -2,7 +2,8 @@
   "title": "2pac",
   "collaborator": "folder studio",
   "url": "http://2pac.com",
-  "date": "11/23/16",
+  "external": true,
+  "date": "16/11/23",
   "type": "project",
   "tags": ["development", "music", "www"]
 }
