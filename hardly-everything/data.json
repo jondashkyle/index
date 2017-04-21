@@ -2,5 +2,7 @@
   "title": "hardly everything",
   "date": "16/06/18",
   "type": "project",
-  "tags": ["design", "development", "www"]
+  "tags": ["design", "development", "www"],
+  "url": "http://hardlyeverything.com",
+  "external": true
 }

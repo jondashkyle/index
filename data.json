@@ -35,7 +35,8 @@
     "tags": [
       "note"
     ],
-    "filter": true
+    "filter": true,
+    "rank": 1
   },
   "hardly-everything": {
     "path": "hardly-everything",
@@ -47,22 +48,25 @@
       "design",
       "development",
       "www"
-    ]
+    ],
+    "url": "http://hardlyeverything.com",
+    "external": true
   },
   "2pac": {
     "path": "2pac",
     "text": "[![62.5](pac.jpg)](http://2pac.com)\n\neditorially driven website by [folder studio](http://folderstudio.com), preserving the legacy of tupac shakur through personal stories from his friends and contemporaries. canonized at its most potent, tupac’s legacy remains powerful and relevant to this day.\n\ni contributed front/back-end development and integration of adam ferris’ webgl.\n\n[![107.3242188](pac2.jpg)](http://2pac.com)",
     "title": "2pac",
     "collaborator": "folder studio",
-    "url": "http://2pac.com",
-    "external": true,
     "date": "16/11/23",
     "type": "project",
     "tags": [
       "development",
       "music",
       "www"
-    ]
+    ],
+    "url": "http://2pac.com",
+    "external": true,
+    "rank": 3
   },
   "machine-project": {
     "path": "machine-project",
@@ -134,7 +138,8 @@
       "development",
       "www"
     ],
-    "client": "red bull music academy"
+    "client": "red bull music academy",
+    "hidden": true
   },
   "a-line-moving-across-a-window-once-every-year": {
     "path": "a-line-moving-across-a-window-once-every-year",
@@ -146,7 +151,8 @@
     "type": "project",
     "tags": [
       "www"
-    ]
+    ],
+    "rank": 3
   },
   "location": {
     "path": "location",
@@ -200,7 +206,8 @@
       "development"
     ],
     "type": "module",
-    "url": "https://github.com/jondashkyle/spod"
+    "url": "https://github.com/jondashkyle/spod",
+    "rank": 2
   },
   "between-broadcast-and-community": {
     "path": "between-broadcast-and-community",
@@ -319,5 +326,44 @@
     "note": "accepting freelance projects,\nfor now",
     "twitter": "jondashkyle",
     "email": "contact@jon-kyle.com"
+  },
+  "on-this-site": {
+    "path": "on-this-site",
+    "text": "## 17:04:21\n\nwanted to get something up which has more information about past projects, without exposing much detail.\n\nit’s continuing to use [the index](https://github.com/jondashkyle/index) as a data source, and [spod](https://github.com/jondashkyle/spod) to manage it. [choo](https://github.com/yoshuawuyts/choo) released v5, which has an api i’m very into, so that’s now used for the front-end. you can see how it’s being used here by taking a look at [the source](https://github.com/jondashkyle/jon-kyle.com/blob/master/source/index.js).",
+    "title": "on this site",
+    "subtitle": "endlessly updated thoughs about why and how this site is here",
+    "date": "17/04/21",
+    "type": "note",
+    "tags": [
+      "web",
+      "www"
+    ],
+    "rank": 4
+  },
+  "bgcolor-fading-from-black-to-white-every-century": {
+    "path": "bgcolor-fading-from-black-to-white-every-century",
+    "text": "",
+    "title": "bgcolor fading from black to white every century",
+    "url": "http://bgcolor-fading-from-black-to-white-every-century.com",
+    "external": true,
+    "date": "15/01/30",
+    "type": "project",
+    "tags": [
+      "www"
+    ],
+    "rank": 3
+  },
+  "persona": {
+    "path": "persona",
+    "text": "",
+    "title": "persona",
+    "date": "16:02:01",
+    "type": "project",
+    "tags": [
+      "www",
+      "design"
+    ],
+    "url": "http://persona.co",
+    "external": true
   }
 }

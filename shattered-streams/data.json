@@ -4,5 +4,6 @@
   "url": "http://daily.redbullmusicacademy.com/specials/2016-shattered-streams/",
   "type": "project",
   "tags": ["design", "development", "www"],
-  "client": "red bull music academy"
+  "client": "red bull music academy",
+  "hidden": true
 }

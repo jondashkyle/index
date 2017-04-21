@@ -3,5 +3,6 @@
   "date": "17/03/01",
   "type": "note",
   "tags": ["note"],
-  "filter": true
+  "filter": true,
+  "rank": 1
 }
