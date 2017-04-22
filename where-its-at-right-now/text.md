@@ -2,9 +2,9 @@ going to make this a little looser, maybe a little more personal than usual. typ
 
 a quick overview of the past few months. tldr;
 
-- released [persona.co](http://persona.co)
-- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org)
-- released the first version of [hardly everything](http://hardlyeverything.com)
+- released [persona.co](http://persona.co).
+- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org).
+- released the first version of [hardly everything](http://hardlyeverything.com).
 - toured europe drumming w/ [anenon](http://brianallensimon.com).
 - am now in ny and taking on freelance projects which overlap that fuzzy design/development zone.
 - thinking about data ownership, service-free self-publishing, p2p-networks/post-cdn infastructure, and how all of this relates back to cultural projects & usable tools for people, etc…
