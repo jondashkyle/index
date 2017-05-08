@@ -28,7 +28,7 @@ back in april of last year i was contributing to [persona](http://persona.co) wi
 
 ![75 --style py2 pxvw15](anenon.jpg)
 
-in december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.
+in december i toured europe playing drums with [brian allen simon](http://brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.
 
 some of the spots we stopped included [madeira](http://digitalinberlin.eu/), london, berlin (berghain kantine), brussels, the hauge, bordeaux, and luxembourg.
 

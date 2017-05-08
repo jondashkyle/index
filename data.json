@@ -224,66 +224,12 @@
   },
   "where-its-at-right-now": {
     "path": "where-its-at-right-now",
-    "text": "going to make this a little looser, maybe a little more personal than usual. typical find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough.\n\na quick overview of the past few months. tldr;\n\n- released [persona.co](http://persona.co).\n- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org).\n- released the first version of [hardly everything](http://hardlyeverything.com).\n- toured europe drumming w/ [anenon](http://brianallensimon.com).\n- am now in ny and taking on freelance projects which overlap that fuzzy design/development zone.\n- thinking about data ownership, service-free self-publishing, p2p-networks/post-cdn infastructure, and how all of this relates back to cultural projects & usable tools for people, etc…\n\n## whats gone on\n\nback in april of last year i was contributing to [persona](http://persona.co) with the team at [cargo](http://cargocollective.com), and saw it through to public release. there were a few heavy contributions, none of which would’ve been possible without the rest of the team.\n\n![65.5](persona.jpg)\n\n- “base unit”, an abstract value used to create universal designs. sort of post-responsive design: using ratios derived from window proportion (not just width) with non-linear scaling to set a foundational integir applied to elements throughout a design. for instance, when the screen gets increasingly “phone sized”, reduce the margin around the page, but increase the point size of the body typography while reducing that of the headings. \n\n\n- the design of the admin, from overall look/feel to individual interface components and interactions. this included discovering ways of interacting with somewhat obscured tooling, such as base unit, while enabling the fidelity of control over design those familiar with cargo had come to expect over the years.\n\n\n- whereas cargo had several unique designs, there is only a single persona design. this single design has styles, which are different configurations of that one design. i suppose this sounds like more of an implimentation detail, but it was a substantial rethinking of how to structure the page. sort of attempting to accomidate infinite permutation as opposed to specialized customization.\n\n\n- creating a few customizable webgl backdrops, etc…\n\n![75 --style py2 pxvw15](anenon.jpg)\n\nin december i toured europe playing drums with [brian allen simon](brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.\n\nsome of the spots we stopped included [madeira](http://digitalinberlin.eu/), london, berlin (berghain kantine), brussels, the hauge, bordeaux, and luxembourg.\n\n## what’s going on\n\n- after completing persona i ended up working on a series of projects with my good friends at [folder studio](http://folderstudio.com). we’ve worked together on and off a number of years now. two projects which stand out are [2pac.com](http://2pac.com) and [eastofborneo.org](http://eastofborneo.org). continuing to do projects with them, some good stuff in the works.\n\n\n- i’m in new york now. had been living in los angeles for several years. i wouldn’t say that i live here, but i wouldn’t say that i don’t live here, too. if you’re here and think there might be a project, or want to say hello, please do!\n\n\n- devoting substantial time to the distributed web. data ownership and network infastructure. making projects with the lowest budgets for the worst connections, the cheapest hardware, etc…",
+    "text": "going to make this a little looser, maybe a little more personal than usual. typical find myself reflexively hesitating to share things, maybe to preserve keeping it just ambigious enough.\n\na quick overview of the past few months. tldr;\n\n- released [persona.co](http://persona.co).\n- collaborated w/ [folder studio](http://folderstudio.com) on projects like [2pac.com](http://2pac.com) and [east of borneo](http://eastofborneo.org).\n- released the first version of [hardly everything](http://hardlyeverything.com).\n- toured europe drumming w/ [anenon](http://brianallensimon.com).\n- am now in ny and taking on freelance projects which overlap that fuzzy design/development zone.\n- thinking about data ownership, service-free self-publishing, p2p-networks/post-cdn infastructure, and how all of this relates back to cultural projects & usable tools for people, etc…\n\n## whats gone on\n\nback in april of last year i was contributing to [persona](http://persona.co) with the team at [cargo](http://cargocollective.com), and saw it through to public release. there were a few heavy contributions, none of which would’ve been possible without the rest of the team.\n\n![65.5](persona.jpg)\n\n- “base unit”, an abstract value used to create universal designs. sort of post-responsive design: using ratios derived from window proportion (not just width) with non-linear scaling to set a foundational integir applied to elements throughout a design. for instance, when the screen gets increasingly “phone sized”, reduce the margin around the page, but increase the point size of the body typography while reducing that of the headings. \n\n\n- the design of the admin, from overall look/feel to individual interface components and interactions. this included discovering ways of interacting with somewhat obscured tooling, such as base unit, while enabling the fidelity of control over design those familiar with cargo had come to expect over the years.\n\n\n- whereas cargo had several unique designs, there is only a single persona design. this single design has styles, which are different configurations of that one design. i suppose this sounds like more of an implimentation detail, but it was a substantial rethinking of how to structure the page. sort of attempting to accomidate infinite permutation as opposed to specialized customization.\n\n\n- creating a few customizable webgl backdrops, etc…\n\n![75 --style py2 pxvw15](anenon.jpg)\n\nin december i toured europe playing drums with [brian allen simon](http://brianallensimon.com), aka anenon. def was a good time. touring is pretty tiring. i’ve done it on and off for a while, but easyjet/ryan air every other day for two weeks is rough. still, the shows were great.\n\nsome of the spots we stopped included [madeira](http://digitalinberlin.eu/), london, berlin (berghain kantine), brussels, the hauge, bordeaux, and luxembourg.\n\n## what’s going on\n\n- after completing persona i ended up working on a series of projects with my good friends at [folder studio](http://folderstudio.com). we’ve worked together on and off a number of years now. two projects which stand out are [2pac.com](http://2pac.com) and [eastofborneo.org](http://eastofborneo.org). continuing to do projects with them, some good stuff in the works.\n\n\n- i’m in new york now. had been living in los angeles for several years. i wouldn’t say that i live here, but i wouldn’t say that i don’t live here, too. if you’re here and think there might be a project, or want to say hello, please do!\n\n\n- devoting substantial time to the distributed web. data ownership and network infastructure. making projects with the lowest budgets for the worst connections, the cheapest hardware, etc…",
     "title": "where it’s at right now",
     "date": "17/03/09",
     "type": "update",
     "tags": [
       "writing"
-    ]
-  },
-  "git": {
-    "title": "git history",
-    "hidden": true,
-    "commits": [
-      {
-        "date": "2017-03-09 15:40:10 -0500",
-        "message": "some writing (HEAD -> gh-pages, origin/gh-pages)"
-      },
-      {
-        "date": "2017-03-09 02:50:19 -0500",
-        "message": "content (origin/master, master)"
-      },
-      {
-        "date": "2017-03-06 15:19:48 -0500",
-        "message": "spod"
-      },
-      {
-        "date": "2017-03-06 10:45:57 -0500",
-        "message": "some revisions"
-      },
-      {
-        "date": "2017-03-05 19:58:51 -0500",
-        "message": "about and web"
-      },
-      {
-        "date": "2017-03-05 16:30:00 -0500",
-        "message": "cargo"
-      },
-      {
-        "date": "2017-03-05 14:47:31 -0500",
-        "message": "some copy"
-      },
-      {
-        "date": "2017-03-05 14:38:01 -0500",
-        "message": "some content adjustments and locations started"
-      },
-      {
-        "date": "2017-03-05 03:40:37 -0500",
-        "message": "projects"
-      },
-      {
-        "date": "2017-03-04 23:06:57 -0500",
-        "message": "watch"
-      },
-      {
-        "date": "2017-03-04 23:06:32 -0500",
-        "message": "docs"
-      },
-      {
-        "date": "2017-03-04 22:55:25 -0500",
-        "message": "first commit"
-      }
     ]
   },
   "non-objective": {
